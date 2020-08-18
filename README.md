@@ -1,4 +1,14 @@
-### Hi there 👋
+### Work in the design and implementation of a web platform for the administration of CGRateS. :telephone_receiver:
+[CGRateS](http://cgrates.org/) is a very fast and easily scalable, It is written in Go programming language and accessible from any programming language via JSON RPC. The code is well documented (go doc compliant API docs) and heavily tested (5k+ tests are part of the unit test suite).
+- Charging
+- Rating
+- Accounting
+- LCR 
+- Mediation
+- Billing 
+- Authorization
+
+engine targeted especially for ISPs and Telecom Operators. The project is being developed in Python using the [Django-2.0](http://cgrates.org/) framework
 
 <!--
 **ortodoxo/ortodoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
